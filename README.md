@@ -11,8 +11,8 @@
   <img align="center" alt="Hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
-  <img align="center" alt="Hugo-Node" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
-  <img align="center" alt="Hugo-Docker" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png">
+  <img align="center" alt="Hugo-Node" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png">
+  <img align="center" alt="Hugo-Docker" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png">
   <img align="center" alt="Hugo-Kubernetes" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png">
   <img align="right" alt="Hugo-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/53034374?v=4">
 </div>
