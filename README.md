@@ -1,8 +1,8 @@
 ## Oi, eu sou o Hugo, desenvolvedor web e iniciante na cultura DevOps!!
 <div align="center">
   <a href="https://github.com/HugoVasc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoVasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoVasc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoVasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoVasc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,9 +10,13 @@
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Hugo-React" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+  <img align="center" alt="Hugo-Node" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
+  <img align="center" alt="Hugo-Docker" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png">
+  <img align="center" alt="Hugo-Kubernetes" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png">
   
-  <img align="right" alt="Hugo-pic" height="150" style="border-radius:50px;" src="github.com/HugoVasc.png">
+  
+  <img align="right" alt="Hugo-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/53034374?v=4">
 </div>
 
 <!--
