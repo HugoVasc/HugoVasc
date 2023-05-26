@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a network engineering student at University of Brasília ⚙️🌐👨🏽‍💻<br><br>I work with software development and I'm learning the DevOps culture ♾️<br><br>I am a security enthusiast, so I always try to implement safe and tested codes 🛟🔒<br><br>Solving problems is a passion 🧩
+I'm a network engineering student at University of Brasília ⚙️🌐👨🏽‍💻<br><br>I work with software development and I'm learning the DevOps culture ♾️<br><br><br><br>Solving problems is a passion 🧩
 
 
 ## 🌐 Socials:
