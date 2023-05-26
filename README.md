@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm a network engineering student at University of Brasília ⚙️🌐👨🏽‍💻<br><br>I work with software development and I'm learning the DevOps culture ♾️<br><br><br><br>Solving problems is a passion 🧩
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugosvasconcelos) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/the_noobie_guy) 
 
