@@ -41,7 +41,7 @@
 
 
 
-### Data Scienc  
+### Data Science
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
@@ -51,7 +51,10 @@
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="50" /></a>
 </div>  
 
-<br/>  
+<br/>
+
+------------------
+
 # 📊 GitHub Stats:
 <table><tr><td valign="top" width="50%">
 
