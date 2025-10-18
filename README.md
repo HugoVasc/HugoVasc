@@ -1,5 +1,5 @@
 # Who am I
-👋 Hi there! I'm a 24-year-old Network Engineering graduate from the University of Brasília, currently pursuing a postgraduate degree in Machine Learning Engineering. I have a solid foundation in Data Analysis, Machine Learning, and Cloud Infrastructure. Professionally, I work as an Analytics Engineer, where I focus on leveraging data to drive insights and optimize processes. Always eager to learn and explore new technologies in the world of data and AI!
+👋 Hi there! I'm a Network Engineering graduate from the University of Brasília with a postgraduate degree in Machine Learning Engineering. I have a strong foundation in Data Analysis, Machine Learning, and Cloud Infrastructure. Currently, I work as an Analytics Engineer, where I help turn data into actionable insights and optimize processes. I'm always curious and passionate about exploring new technologies in data and AI.
 
 ## 🌐 Social Networks:
 <a href="https://github.com/HugoVasc" target="_blank">
